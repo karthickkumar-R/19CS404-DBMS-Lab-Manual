@@ -1,6 +1,6 @@
 # Experiment 4: Aggregate Functions, Group By and Having Clause
-## Name:Prasanna R
-## Reg.no:212222040120
+## Name:SUSINDHAR K M
+## Reg.no:212223040218
 ## AIM
 To study and implement aggregate functions, GROUP BY, and HAVING clause with suitable examples.
 
