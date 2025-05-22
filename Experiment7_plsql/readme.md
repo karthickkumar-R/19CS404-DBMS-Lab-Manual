@@ -1,5 +1,6 @@
 # Experiment 7: PL/SQL – Variables, Control Structures and Loops
-
+## Name: KARTHICKKUMAR R
+## Reg.no:212223040087
 ## AIM
 To write and execute simple PL/SQL programs using variables, loops, and conditional statements.
 
