@@ -47,8 +47,8 @@ Design a database for patient management, appointments, medical records, and bil
 
 # EX:1  ER DIAGRAM
 
-## NAME: RIYA P L
-## REG.NO : 212223240141
+## NAME: KARTHICKKUMAR R
+## REG.NO : 212223040087
 
 ## Scenario Chosen:
 Hospital
